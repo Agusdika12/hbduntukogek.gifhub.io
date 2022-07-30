@@ -1,0 +1,29 @@
+body{
+    border-radius: 100%;
+    text-align: center;
+    background-image:url(bacground.png);
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+button{
+    border-radius: 15px;
+    width: 73px;
+    height: 42px;
+    color: floralwhite;
+    background-color: indianred;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 20px;
+    padding: 2px;
+}
+button:hover{
+    background: antiquewhite;
+}
+
+.font{
+    font-size: 20px;
+}
